@@ -1,6 +1,6 @@
 These are the data and code to accompany Pisor & Gurven (in press) When to diversity, and with whom? Choosing partners among out-group strangers in lowland Bolivia (http://dx.doi.org/10.1016/j.evolhumbehav.2017.09.003).
 
-NOTE: These were collected with living people who do not wish to be identified. Please respect their wishes and do not attempt to identify any of the participants in this sample.
+NOTE: These data were collected with living people who do not wish to be identified. Please respect their wishes and do not attempt to identify any of the participants in this sample.
 
 Data are provided in Partner choice dataset_31-Jul-17.csv, and your guide to the meaning of each variable can be found in Data dictionary_21-Jul-17.csv. 
 
@@ -24,4 +24,4 @@ Table S11a: Tsimane model_31-Jul-17.r.
 Table S11b: Moseten model_28-Jul-17.r.
 Table S11c: Intercultural model_27-Jul-17.r.
 
-NOTE: These models feature 100 imputed data sets. Accordingly, these models were run on a UNIX server, and the parallelization we used cannot be handled by (most) personal computers. If you are not running these code on a server, omit the parallel processing code to avoid crashing your computer.
+NOTE: These models feature 100 imputed data sets. Accordingly, these models were run on a UNIX server, and the parallelization we used cannot be handled by (most) personal computers. If you are not running this code on a server, omit the parallel processing code to avoid crashing your computer.
