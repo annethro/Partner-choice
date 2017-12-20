@@ -1,4 +1,4 @@
-These are the data and code to accompany Pisor & Gurven (in press) When to diversity, and with whom? Choosing partners among out-group strangers in lowland Bolivia (http://dx.doi.org/10.1016/j.evolhumbehav.2017.09.003).
+These are the data and code to accompany Pisor & Gurven (in press) When to diversity, and with whom? Choosing partners among out-group strangers in lowland Bolivia (https://doi.org/10.1016/j.evolhumbehav.2017.09.003).
 
 NOTE: These data were collected with living people who do not wish to be identified. Please respect their wishes and do not attempt to identify any of the participants in this sample.
 
